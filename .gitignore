@@ -1,0 +1,21 @@
+# tags file
+tags
+TAGS
+
+# Object files
+*.o
+
+# Executable
+labexplr
+
+# Temp files
+*~
+\#*
+
+# Derived files
+README.html
+
+# temp directory and tmp files to be ignored 
+tmp/*
+tmp
+tmp*
